@@ -1,0 +1,31 @@
+{
+ "metrics": {
+  "return_total_pct": 33.12876697278509,
+  "cagr_pct": 9.721875468644669,
+  "max_drawdown_pct": 34.46631100797164,
+  "profit_factor": 1.1467910274275537,
+  "win_rate_pct": 33.980582524271846,
+  "avg_win": 3697362.296000643,
+  "avg_loss": -1659460.2481416166,
+  "n_trades": 206,
+  "biaya_total_idr": 83235041.26720124,
+  "laba_kotor_idr": 116363808.2399864,
+  "porsi_biaya_pct_dari_laba_kotor": 71.53000793471708,
+  "final_equity": 133128766.97278509,
+  "open_at_end": [],
+  "hari_kena_daily_loss_limit": 8,
+  "buy_hold_btc_return_pct": 214.131160739609
+ },
+ "spread": {
+  "BTCIDR": 0.010509835727322971,
+  "ETHIDR": 0.07424003782121812,
+  "XRPIDR": 0.10739580254345592
+ },
+ "slip": {
+  "BTCIDR": 0.0003734525136213849,
+  "ETHIDR": 0.008770133095594613,
+  "XRPIDR": 0.01607850276076761
+ },
+ "start": 1696723200,
+ "end": 1794052800
+}
